@@ -38,10 +38,11 @@ Jan 2024 - Jan 2024
 <br>
 
 ### 📥 Getting Started
-1. Clone the repository: git clone https://github.com/omrajeshchitmalwar/Web-Scraping-Project.git<br>
-2. Navigate to the project directory: cd Web-Scraping <br>
-3. Install the required libraries: pip install -r requirements.txt<br>
-4. Run the Jupyter Notebook: jupyter notebook <br>
+1. Clone the repository: <pre>git clone https://github.com/omrajeshchitmalwar/Web-Scraping-Project.git<br>
+2. Navigate to the project directory: <pre>cd Web-Scraping <br>
+3. Install the required libraries: <pre>pip install -r requirements.txt<br>
+
+<br>
 
 ### 🌟 Acknowledgements
 - Special thanks to the BeautifulSoup community for their documentation and support.<br>
